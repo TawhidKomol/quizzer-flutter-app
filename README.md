@@ -4,7 +4,7 @@ This is a quiz app made using flutter
 
 ## Project Screenshots
 
-![App Screenshot](https://github.com/TawhidKomol/xylophone_flutter_app/blob/main/assets/Screenshot%202022-02-03%20093106.png?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/quizzer_flutter_app/blob/main/screenshot/Screenshot%202022-02-07%20104232.png?raw=true)
 
 
 ##  My Profile Links
