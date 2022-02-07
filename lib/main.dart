@@ -150,7 +150,7 @@ class _QuizPageState extends State<QuizPage> {
         Expanded(
           flex: 18,
           child: Padding(
-            padding: const EdgeInsets.all(10.0),
+            padding: const EdgeInsets.all(24.0),
             child: Center(
               child: Text(
                 quizBrain.getQuestionText(),
